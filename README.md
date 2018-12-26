@@ -1,2 +1,1 @@
-Are you ok?
-OK
+你好
